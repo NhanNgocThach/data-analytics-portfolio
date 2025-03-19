@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Analytics Portfolio
 
 This project is a Data Analytics Portfolio built using Python and Flask. It showcases various data analysis techniques and visualizations, providing an interactive web interface for users to explore the data.
@@ -65,3 +66,6 @@ This portfolio demonstrates various data analysis techniques, including data cle
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# data-analytics-portfolio
+>>>>>>> 709994dec2963a0554abd3ad1f471e726808f69f
